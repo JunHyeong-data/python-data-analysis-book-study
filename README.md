@@ -17,6 +17,9 @@
 - Chapter 8. 데이터 준비하기: 조인, 병합, 변형
 - Chapter 9. 그래프와 시각화
 - Chapter 10. 데이터 집계와 그룹 연산
+- Chapter 11. 시계열
+- Chapter 12. 파이썬 모델링 라이브러리
+- Chapter 13. 데이터 분석 예제
   
 ---
 
